@@ -29,7 +29,7 @@ While map notes are heavily used in BG2, helping navigation, BG1 is sadly lackin
 **Notes:**
 
 1. Obviously, it contains some spoilers. Don't install if you don't like them.
-1. It's work in progress, not every little thing has been mapped out. You can suggest new entries.
+2. It's work in progress, not every little thing has been mapped out. You can suggest new entries.
 
 ### Disable lightning during rain
 
@@ -63,9 +63,9 @@ For Classic Editions users. For historical reasons, most games files are compres
 
 The component will decompress the files. Don't expect wonders. Maybe some 10-30% improvement.
 
-### Add BG1 tomes stats bonuses to new BG2 characters
+### Add BG1 tome stats bonuses to new BG2 characters
 
-To brand new BG2 charaters, gives the stat bonuses that they were supposed to gain from tomes in BG1. The subcomponents are self-describing:
+To brand new BG2 characters, gives the stat bonuses that they were supposed to gain from tomes in BG1. The subcomponents are self-describing:
 
 - Either each stat gets +1
 - Or each stat except Wisdom gets +1, Wisdom gets +3

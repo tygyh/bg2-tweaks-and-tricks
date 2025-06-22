@@ -396,4 +396,6 @@ Added more comprehensive check to include various Gaze spells.
 - Updated the components.
 - Updated to weidu 238.
 
-### Version 1: initial release
+### Version 1
+
+- Initial release

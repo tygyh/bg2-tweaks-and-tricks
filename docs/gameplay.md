@@ -37,7 +37,7 @@ In addition to the above list, quite a few creatures in the game are wearing ite
 
 Presumably, the developers' intention was to compensate for the lacking AI. However, nowadays there are many AI-enhancing mods, such as SCS (which lets enemies pre-buff, too). With powerful AI, having extra free protections seems unjustified and plain unfair. This removes all such items from all creatures.
 
-This is a power user component as it hasn't been thouroughly tested. **You've been warned.**
+This is a power user component as it hasn't been thoroughly tested. **You've been warned.**
 
 #### No XP farming
 
@@ -60,7 +60,7 @@ It's well known that Grandmastery was nerfed in BG2 by Bioware for "balance". An
 
 However, not every fighter is supposed to be able to become a Grand Master. Certainly not multiclass, and not even kits. It should be available only to a single class, true class Fighter. That is his one edge over the kitted ones. And it's been taken away from him. (Although, pretty much all true classes in BG2 share the same fate - they are overshadowed by their kits.)
 
-This component perfoms the following changes:
+This component performs the following changes:
 
 - Grand Mastery (5 pips) grants one extra attack over Specialist (the "unnerfed" version, as in Baldurdash and Tweaks Anthology).
 - Only true class Fighter can get Grand Mastery.
